@@ -1,0 +1,7 @@
+pub_med_id,title,desc
+101,"COVID-19","To get the optimal solution for very small sized problems (graphs containing less than 25 vertices),
+we used backtracking. Notice that even though backtracking gives us an optimal solution, a greedy or memetic
+algorithm may not. By applying this method (backtracking, memetic or greedy algorithm depending on the number of
+vertices) recursively, we have at each step a graph as input, and the two subgraphs induced by each of the sets of
+the vertex partition as output; stopping when we arrive to a graph with just one vertex, we generate a hierarchical
+clustering in a top-down fashion."
