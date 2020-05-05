@@ -17,5 +17,3 @@ L=8	8/128	8/256	8/512 (BERT-Medium)	8/768
 L=10	10/128	10/256	10/512	10/768
 L=12	12/128	12/256	12/512	12/768 (BERT-Base)
 Note that the BERT-Base model in this release is included for completeness only; it was re-trained under the same regime as the original model.
-
-Here are the corresponding GLUE scores on the test set:
